@@ -43,6 +43,7 @@ header nav div {
     align-items: center;
     background-color: rgba(51, 77, 92, 255);
     margin-bottom: 30px;
+    padding: 20px;
 }
 
 .first_sec div {
